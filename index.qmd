@@ -10,6 +10,8 @@ about:
       href: www.linkedin.com/in/kate-laidlaw
     - text: email
       href: mailto:KateL42@colostate.edu
+    - text: Github
+      href: https://github.com/KateLaidlaw
 ---
 
 Welcome to my first ever website. I have attached some helpful information regarding my skills, background, and personality. Enjoy.

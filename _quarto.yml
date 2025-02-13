@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website: 
-  title: "KateLaidlaw.github.io"
+  title: Kate Laidlaw
+  favicon: logos/KateLaidlaw.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - Resume.qmd
       - Projects.qmd
-
+      - About.qmd
+  page-footer: 
+    background: light
+    left: Copyright 2025, Kate Laidlaw
+    right: ESS 330, Quantitative Reasoning for Ecosystem Science and Sustainability
 format:
   html:
     theme: sandstone
