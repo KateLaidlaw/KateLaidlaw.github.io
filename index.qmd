@@ -4,7 +4,7 @@ image: images/Headshot.jpg
 about: 
   template: solana
   image-shape: rounded
-  image-width: 20em
+  image-width: 15em
   links: 
     - text: Linkedin
       href: www.linkedin.com/in/kate-laidlaw
