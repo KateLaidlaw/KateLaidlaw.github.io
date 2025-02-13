@@ -8,13 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Resume.qmd
+      - Projects.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#050606"
+    linkcolor: "#125c22"
+    monofont: courier new
     css: styles.css
     toc: true
+    toc-location: right
 
 editor: visual
 

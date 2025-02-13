@@ -1,11 +1,17 @@
 ---
-title: "KateLaidlaw.github.io"
+title: "Kate Laidlaw's Super Cool Fun Wesbsite:)"
+image: images/Headshot.jpg
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - text: Linkedin
+      href: www.linkedin.com/in/kate-laidlaw
+    - text: email
+      href: mailto:KateL42@colostate.edu
 ---
 
-This is a Quarto website.
+Welcome to my first ever website. I have attached some helpful information regarding my skills, background, and personality. Enjoy.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/5714675C-AB1E-4EC4-8A9F-29C9AC2000BE_1_105_c.jpeg)

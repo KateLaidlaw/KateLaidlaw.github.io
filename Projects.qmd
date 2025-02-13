@@ -1,0 +1,10 @@
+---
+title: "Projects"
+format: html
+---
+
+---
+
+# Co-Authored Poster, American Geophysical Science Union 2024
+
+![](AGU_Poster.png)
