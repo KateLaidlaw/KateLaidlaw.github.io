@@ -8,3 +8,5 @@ format: html
 # Co-Authored Poster, American Geophysical Science Union 2024
 
 ![](AGU_Poster.png)
+
+Poster published last year at the AGU 2024 Conference. My job was to analyze different data plots of solar insolation, looking for irregular patterns. I then labeled an Excel database for the training of a model to automatically detect quality control issues in the USDA UVB Monitoring and Research Program climatological instruments. This project greatly developed my data analysis skills, and my organization and attention to detail. It also opened my eyes to the world of remote sensing data, and while it was a big learning curve, I came away with a greater appreciation and understanding of how remote sensing data is critical in answering important Ecological questions.
