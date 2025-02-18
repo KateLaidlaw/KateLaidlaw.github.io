@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "About.html",
+    "href": "About.html",
     "title": "About",
     "section": "",
     "text": "About Me:\nEmerging environmental professional aspiring to make a difference through research and effective communication. I am a highly curious individual with a positive attitude and a strong work ethic. In the future, I hope to work with a diverse team of people to conduct research on important ecological questions."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Co-Authored Poster, American Geophysical Science Union 2024\n\nPoster published last year at the AGU 2024 Conference. My job was to analyze different data plots of solar insolation, looking for irregular patterns. I then labeled an Excel database for the training of a model to automatically detect quality control issues in the USDA UVB Monitoring and Research Program climatological instruments. This project greatly developed my data analysis skills, and my organization and attention to detail. It also opened my eyes to the world of remote sensing data, and while it was a big learning curve, I came away with a greater appreciation and understanding of how remote sensing data is critical in answering important Ecological questions."
   },
   {
     "objectID": "Resume.html",
@@ -26,19 +33,5 @@
     "title": "Kate Laidlaw’s Super Cool Fun Wesbsite:)",
     "section": "",
     "text": "Welcome to my first ever website. I have attached some helpful information regarding my skills, background, and personality. Enjoy."
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Co-Authored Poster, American Geophysical Science Union 2024\n\nPoster published last year at the AGU 2024 Conference. My job was to analyze different data plots of solar insolation, looking for irregular patterns. I then labeled an Excel database for the training of a model to automatically detect quality control issues in the USDA UVB Monitoring and Research Program climatological instruments. This project greatly developed my data analysis skills, and my organization and attention to detail. It also opened my eyes to the world of remote sensing data, and while it was a big learning curve, I came away with a greater appreciation and understanding of how remote sensing data is critical in answering important Ecological questions."
-  },
-  {
-    "objectID": "About.html",
-    "href": "About.html",
-    "title": "About",
-    "section": "",
-    "text": "About Me:\nEmerging environmental professional aspiring to make a difference through research and effective communication. I am a highly curious individual with a positive attitude and a strong work ethic. In the future, I hope to work with a diverse team of people to conduct research on important ecological questions."
   }
 ]
