@@ -11,7 +11,7 @@ website:
         text: Home
       - Resume.qmd
       - Projects.qmd
-      - About.qmd
+      - about.qmd
   page-footer: 
     background: light
     left: Copyright 2025, Kate Laidlaw
