@@ -3,8 +3,10 @@ title: "About"
 format: html
 ---
 
-# About Me:
+About Me:
 
 Emerging environmental professional aspiring to make a difference through research and effective communication. I am a highly curious individual with a positive attitude and a strong work ethic. In the future, I hope to work with a diverse team of people to conduct research on important ecological questions.
 
-![](images/About_Me.jpg){width="229"}
+![](images/About_Me.jpg)
+
+
